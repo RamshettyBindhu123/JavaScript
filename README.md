@@ -1,12 +1,12 @@
-# 💻 JavaScript Repository
+#  JavaScript Repository 💻
 
 This repository is dedicated to creating web applications using JavaScript, from basic to advanced levels. JavaScript is a versatile language that can improve both client-side and server-side functionalities, allowing you to create interactive web pages.
 
-### 🚀 Introduction
+###  Introduction 🤞
 
 This repository serves as a comprehensive resource for developing web applications using JavaScript. Whether you are a beginner or an experienced developer, this repository can help you enhance your skills and build robust web apps.
 
-## 🤝 Contribution
+##  Contribution 🙌
 
 Please refer to the `Contribution.md` file for detailed guidelines on how to contribute to this repository. Your contributions, whether in the form of new projects, enhancements, or bug fixes, are highly appreciated.
 
