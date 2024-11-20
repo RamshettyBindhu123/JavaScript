@@ -23,7 +23,7 @@ This repository is mainly created to create web app using JavaScript. This app c
 
 ## _Contribution_
 
-You can read `Contribution.md` for more contributing guidelines.
+You can read *Contribution.md* for more contributing guidelines.
 
 *Following languages have been used*
 
